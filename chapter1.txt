@@ -1,0 +1,1 @@
+Version control is a system that records changes to files over time, enabling you to track and manage versions of your project files. This is especially useful in software development but is also valuable in many other fields where multiple versions of documents or files are necessary.
