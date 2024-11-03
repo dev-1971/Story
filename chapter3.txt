@@ -1,0 +1,4 @@
+Popular Version Control Systems
+Git: The most widely used, it is a distributed version control system that emphasizes speed, data integrity, and support for non-linear development.
+Subversion (SVN): A centralized system, useful for version tracking, but lacks some flexibility of Git.
+Mercurial: Similar to Git in its distributed approach but with a simpler interface.
